@@ -1,0 +1,43 @@
+{
+    "result": {
+        "location": "San diego",
+        "altitude": 5.283520221710205,
+        "date": "2017-04-30T02:08:55.979Z",
+        "uviData": {
+            "uvi": 10,
+            "uviMax": 10,
+            "uviMaxTime": "2017-04-30T11:48:56.741Z"
+        },
+        "sunTime": {
+            "sunrise": "2017-04-30T06:05:51.818Z",
+            "sunset": "2017-04-30T19:27:01.664Z"
+        },
+        "burnTime": {
+            "celtic": null,
+            "pale": null,
+            "caucasian": null,
+            "mediterranean": null,
+            "southAfrican": null,
+            "negro": null
+        },
+        "proectionTime": {
+            "protectionFrom": null,
+            "protectionTo": null
+        },
+        "sunAdvice": {
+            "advice": null
+        },
+        "weather": {
+            "precipProbability": 20,
+            "temperature_min": 16,
+			"temperature_max": 25,
+			"temperature_water": 18,
+            "windSpeed_min": 4,
+			"windSpeed_max": 20,
+			"wave_min": 1.4,
+			"wave_max": 1.5
+     
+        }
+    }
+
+}
